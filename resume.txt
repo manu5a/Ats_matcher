@@ -1,0 +1,3 @@
+I am a fresher with experience in Python, pandas, numpy and basic machine learning.
+I have built small ML projects using scikit-learn and created REST APIs using FastAPI.
+I understand data preprocessing and model evaluation concepts.

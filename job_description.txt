@@ -1,0 +1,3 @@
+We are looking for a Junior AI Engineer or ML Engineer with skills in Python,
+machine learning, data preprocessing, pandas, numpy, and basic FastAPI or Flask
+for deploying models as APIs. Experience with scikit-learn is a plus.
